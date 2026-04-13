@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/front-for-me/static/css/main.073c9b0a.css",
+    "main.js": "/front-for-me/static/js/main.a2c3f4e1.js",
+    "static/js/787.177e23c2.chunk.js": "/front-for-me/static/js/787.177e23c2.chunk.js",
+    "index.html": "/front-for-me/index.html",
+    "main.073c9b0a.css.map": "/front-for-me/static/css/main.073c9b0a.css.map",
+    "main.a2c3f4e1.js.map": "/front-for-me/static/js/main.a2c3f4e1.js.map",
+    "787.177e23c2.chunk.js.map": "/front-for-me/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a2c3f4e1.js"
+  ]
+}
