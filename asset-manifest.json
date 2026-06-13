@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/front-for-me/static/css/main.0dc81096.css",
-    "main.js": "/front-for-me/static/js/main.80e46ba4.js",
+    "main.js": "/front-for-me/static/js/main.8c30fa9d.js",
     "static/js/453.fb8d02c7.chunk.js": "/front-for-me/static/js/453.fb8d02c7.chunk.js",
     "index.html": "/front-for-me/index.html",
     "main.0dc81096.css.map": "/front-for-me/static/css/main.0dc81096.css.map",
-    "main.80e46ba4.js.map": "/front-for-me/static/js/main.80e46ba4.js.map",
+    "main.8c30fa9d.js.map": "/front-for-me/static/js/main.8c30fa9d.js.map",
     "453.fb8d02c7.chunk.js.map": "/front-for-me/static/js/453.fb8d02c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0dc81096.css",
-    "static/js/main.80e46ba4.js"
+    "static/js/main.8c30fa9d.js"
   ]
 }
